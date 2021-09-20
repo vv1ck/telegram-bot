@@ -38,6 +38,7 @@ additional information:
 - Supports Arabic and English
 - To find out how to use, type /help
 - To extract id chat write /chat
+- To find out the version of the bot, type /chat
 -----------
 Try the bot : <a class="" href="https://t.me/JBvr_bot"> Click Here 🤖  </a>
 -
