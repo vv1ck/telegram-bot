@@ -24,7 +24,7 @@ Installing the bot on the server:
 -----------
 Run the bot
 - cd telegram-bot
-- python3 jail-bot.py
+- python3 jailbreak-bot.py
 - Enter your bot token
 -----------
 
