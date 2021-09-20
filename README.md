@@ -27,13 +27,16 @@ Run the bot
 - Enter your bot token
 -----------
 
-bot information
+additional information:
 - Quick response
 - Works in groups and dm
 - No rights or ads
 - Supports Arabic and English
-- Currently, it only supports iPhones, will support iPads soon
-
+- To find out how to use, type /help
+- To extract id chat write /chat
+-----------
+Try the bot : <a class="" href="https://t.me/JBvr_bot"> Click Here 🤖  </a>
+-
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
 see
