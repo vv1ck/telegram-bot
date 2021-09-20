@@ -1,7 +1,7 @@
 # telegram-bot
 - The bot will tell you if your device supports jailbreaking or not
 - The bot contains all iOS systems for both devices (iPhone, iPad)
--
+-----------
 Registered devices:
 - iPhone6 / iPhone6 Plus
 - iPhone7 / iPhone7 Plus
@@ -20,6 +20,7 @@ Registered devices:
 Installing the bot on the server:
 - apt-get update && apt-get install python3-pip
 - pip3 install python-telegram-bot
+- git clone https://github.com/vv1ck/telegram-bot
 -----------
 Run the bot
 - cd telegram-bot
