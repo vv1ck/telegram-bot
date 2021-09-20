@@ -1,4 +1,7 @@
 # telegram-bot
+
+jailbreak bot
+-
 - The bot will tell you if your device supports jailbreaking or not
 - The bot contains all iOS systems for both devices (iPhone, iPad)
 -----------
