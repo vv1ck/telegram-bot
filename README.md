@@ -1,6 +1,6 @@
 # telegram-bot
-
-The bot contains jailbreaking versions iphone, simply type a /info command and then choose the type and version of your device.
+- The bot will tell you if your device supports jailbreaking or not
+- The bot contains all iOS systems for both devices (iPhone, iPad)
 -
 You must download the library
 - pip3 install python-telegram-bot
