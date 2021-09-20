@@ -10,7 +10,8 @@ Registered devices:
 - All iPhone XR and SE
 - All iPhone 11 
 - All iPhone 12
--
+-----------
+
 
 
 You must download the library
