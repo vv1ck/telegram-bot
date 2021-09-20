@@ -17,10 +17,15 @@ Registered devices:
 - All iPad Pro 
 -----------
 
-
-
-You must download the library
+Installing the bot on the server:
+- apt-get update && apt-get install python3-pip
 - pip3 install python-telegram-bot
+-----------
+Run the bot
+- cd telegram-bot
+- python3 jail-bot.py
+- Enter your bot token
+-----------
 
 bot information
 - Quick response
