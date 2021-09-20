@@ -11,6 +11,11 @@ Registered devices:
 - All iPhone 11 
 - All iPhone 12
 -----------
+- All iPad mini 5
+- All iPad Air 3 and 4
+- All iPad 7 and 8
+- All iPad Pro 
+-----------
 
 
 
