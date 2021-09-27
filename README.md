@@ -25,7 +25,21 @@ Installing the bot on the server:
 <!--START_SECTION:waka-->
 ```text
 apt-get update && apt-get install python3-pip
+
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```text
+
 pip3 install python-telegram-bot
+
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```text
+
 git clone https://github.com/vv1ck/telegram-bot
 
 ```
