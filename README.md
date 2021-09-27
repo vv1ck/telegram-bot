@@ -23,24 +23,40 @@ Registered devices:
 Installing the bot on the server:
 
 <!--START_SECTION:waka-->
+```
 apt-get update && apt-get install python3-pip
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
-```text
+```
 pip3 install python-telegram-bot
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
-```text
+```
 git clone https://github.com/vv1ck/telegram-bot
 ```
 <!--END_SECTION:waka-->
 -----------
 Run the bot
-- cd telegram-bot
-- python3 jailbreak-bot.py
-- Enter your bot token
+
+<!--START_SECTION:waka-->
+```
+cd telegram-bot
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```
+python3 jailbreak-bot.py
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```
+Enter your bot token
+```
+<!--END_SECTION:waka-->
 -----------
 
 additional information:
