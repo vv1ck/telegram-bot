@@ -21,9 +21,15 @@ Registered devices:
 -----------
 
 Installing the bot on the server:
-- apt-get update && apt-get install python3-pip
-- pip3 install python-telegram-bot
-- git clone https://github.com/vv1ck/telegram-bot
+
+<!--START_SECTION:waka-->
+```text
+apt-get update && apt-get install python3-pip
+pip3 install python-telegram-bot
+git clone https://github.com/vv1ck/telegram-bot
+
+```
+<!--END_SECTION:waka-->
 -----------
 Run the bot
 - cd telegram-bot
