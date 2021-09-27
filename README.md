@@ -23,7 +23,7 @@ Registered devices:
 Installing the bot on the server:
 
 <!--START_SECTION:waka-->
-```text
+```
 apt-get update && apt-get install python3-pip
 ```
 <!--END_SECTION:waka-->
